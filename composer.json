@@ -1,0 +1,10 @@
+{
+    "require": {
+        "jms/serializer": "^1.11",
+        "doctrine/orm": "^2.6"
+    },
+
+    "autoload": {
+        "psr-4": {"Developer2010\\": "src/"}
+    }
+}
